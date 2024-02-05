@@ -1,7 +1,7 @@
 # E-commerce-website
 Crafted an e-commerce platform with Spring Boot, Spring Security, and Spring JPA, backed by MySQL. Implemented secure authentication, efficient database interactions, and key features like product catalog and user management. Demonstrates adept use of key technologies and strong grasp of software architecture.
 
-<h1>Active Directory Home Lab With Bulk User Creation</h1>
+<h1>E-commerce-website using springboot and spring security</h1>
 
 <h2>Description</h2>
 This project is a walkthrough of how I created an Active Directory home lab Environment using VMWare. I set up a Microsoft Server to run Active Directory on it. I then configure a Domain Controller that will allow me to run a domain. After that I ran a Powershell script to create over 1000 users in Active Directory and proceed to log into those newly created accounts on another client that uses the domain I set up to connect to the internet. This lab simulates a business environment. In this lab I'll need a Microsoft Server 2019 ISO, A Windows 10 Enterprise ISO, VMWare and a Powershell script.
